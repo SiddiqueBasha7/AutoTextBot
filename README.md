@@ -2,4 +2,4 @@
 
 pip install -r requirements.txt
 
-python AutoTextBot.py
+python3 AutoTextBot.py
